@@ -1,5 +1,6 @@
 /*  Example of a code-generator for Motorola 68hc12 16bit microcontrollers.*/
 
+#include <stdint.h>
 #include "dt.h"
 
 /* We have extended types! What we have to do to support them:      */
